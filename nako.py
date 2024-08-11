@@ -31,7 +31,7 @@ for i in range(0, 10):
         rand_sug = biram_suglasnik()
         rijec.append(rand_sug)
 
-print(f"Kombinaciaj slova je: {str(rijec).upper()}")
+print(f"Kombinacija slova je: {str(rijec).upper()}")
     
 
 
